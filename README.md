@@ -3,4 +3,5 @@
 <h3>What methods were used to solve the challenges</h3>
 <ul>
   <li>Implement Bubble Sort: While loop, For loop, if statement</li>
+  <li>Implement Selection Sort: For loop, if statement</li>
 </ul>
